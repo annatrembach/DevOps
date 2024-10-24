@@ -8,4 +8,8 @@ double FuncA::calculate(int n) {
     }
     return sum;
 }
+<<<<<<< HEAD
 Change in branchA
+=======
+
+>>>>>>> master
