@@ -8,3 +8,4 @@ double FuncA::calculate(int n) {
     }
     return sum;
 }
+Conflicting change in main
